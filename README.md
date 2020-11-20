@@ -10,4 +10,4 @@ when it comes to job search, How do we generally go about looking for jobs? We g
 The data has been taken from Kaggle. There are 2253 observations / job postings with information on different features like ‘Salary Estimate’, ‘Rating’, ‘Location’, ‘Size of the company’, ‘Founded’, ‘Industry’, and ‘Sector’.
 
 
-Link to the blog post: https://akshathasingh.github.io/
+**Link to the blog post:** https://akshathasingh.github.io/
