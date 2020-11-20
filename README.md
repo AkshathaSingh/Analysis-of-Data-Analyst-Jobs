@@ -8,3 +8,6 @@ understand the job market and thus help with the job search process.
 when it comes to job search, How do we generally go about looking for jobs? We go on different job sites, search for companies currently hiring for our desried positions, research about the company, tweak our resume and submit our application. This consumes a lot of time and thus makes it necessary to enhance the process and increase our probability of success.
 
 The data has been taken from Kaggle. There are 2253 observations / job postings with information on different features like ‘Salary Estimate’, ‘Rating’, ‘Location’, ‘Size of the company’, ‘Founded’, ‘Industry’, and ‘Sector’.
+
+
+Link to the blog post: https://akshathasingh.github.io/
